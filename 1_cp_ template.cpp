@@ -3,8 +3,8 @@ using namespace std;
 
 #define ll long long
 #define pii pair<int,int>
-#define ff first
-#define ss second
+#define f first
+#define s second
 
 void solve(){
 
